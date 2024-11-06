@@ -22,7 +22,7 @@ La información para el análisis general y para el análisis A/A/B está en el 
 - __Bibliotecas:__ Pandas, Matplotlib, Plotly, Seaborn, Scipy, Numpy, Math.
 
 ## Proceso del Proyecto
-Este informe estará dividido en tres partes, cada una de ellas tendrá diferentos objetivos:
+Este informe está dividido en tres partes, cada una de ellas tendrá diferentos objetivos:
 
 __Preanálisis:__ Etapa en la cual se cargan los datos y se optimizan en caso de ser necesario, se trabajan los valores duplicados y ausentes, y finalmente, se modifican los datos para facilitar el posterior análisis.
 
