@@ -1,8 +1,7 @@
 # Analisis-Embudo-de-Ventas-y-Test-A-A-B-e-commerce-de-comida
 __Análisis de funnel de ventas y test A/A/B__
 
-<image src="https://github.com/BastianLQ/Analisis-Embudo-de-Ventas-y-Test-A-A-B-e-commerce-comida
-/blob/main/N11.jpg" alt="Collage de gráficos">
+<image src="https://github.com/BastianLQ/Analisis-Embudo-de-Ventas-y-Test-A-A-B-e-commerce-comida/blob/main/N11.jpg" alt="Collage de gráficos">
 
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
 
