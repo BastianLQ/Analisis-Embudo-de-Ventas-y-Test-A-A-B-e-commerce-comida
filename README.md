@@ -22,10 +22,41 @@ La información para el análisis general y para el análisis A/A/B está en el 
 - __Bibliotecas:__ Pandas, Matplotlib, Plotly, Seaborn, Scipy, Numpy, Math.
 
 ## Proceso del Proyecto
-- __Descripción de los datos:__ Los datos fueron extraídos de [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por Instacart _(los datasets están en Drive porque superan el peso máximo permitido de GitHub)_, en esta fase, también, se les da una revisión superficial y se corrigen problemas de importación si es que llegasen a surgir.
-- __Preprocesamiento de los datos:__ Se realizaron varias operaciones de limpieza, incluyendo manejo de valores nulos, normalización y formateo de datos.
-- __Análisis Exploratorio de Datos (EDA):__ Esta fase se centró en analizar la integridad de los datos y rescatar insights valiosos. Utilizando pandas se exploraron los datos para obtener una comprensión inicial, intermedia y avanzada, y con matplotlib, se generaron visualizaciones para ilustrar los hallazgos clave del análisis.
-- __Resultados:__ Se identificaron patrones y tendencias en los datos, como los productos más vendidos y reordenados, y el comportamiento general de los clientes en términos de cantidad de artículos por pedido.
+Este informe estará dividido en tres partes, cada una de ellas tendrá diferentos objetivos:
+
+__Preanálisis:__ Etapa en la cual se cargan los datos y se optimizan en caso de ser necesario, se trabajan los valores duplicados y ausentes, y finalmente, se modifican los datos para facilitar el posterior análisis.
+
+- Optimizar el nombre de las columnas de manera que sea conveniente para el análisis.
+- Comprobar si hay tipos de datos y valores ausentes y corregir los datos si es necesario.
+- Agregar una columna de fecha y hora y una columna separada para las fechas (transformar las fechas del formato timestamp).
+
+__Análisis:__ Etapa en la cual se responden las preguntas establecidas y se trazan los gráficos correspondientes.
+
+- Estudiar y comprobar los datos.
+    - ¿Cuántos eventos hay en los registros?
+    - ¿Cuántos usuarios y usuarias hay en los registros?
+    - ¿Cuál es el promedio de eventos por usuario?
+    - ¿Qué periodo de tiempo cubren los datos?
+    - ¿Hay una cantidad suficiente de registros por grupo?
+    
+    
+- Estudiar el embudo de eventos.
+    - ¿Qué eventos hay en los registros? y ¿Cuál su frecuencia de suceso?
+    - ¿Cual la cantidad de usuarios y usuarias que realizaron cada una de las acciones registradas?
+    - ¿En qué orden ocurrieron las acciones?
+    - ¿Cual es la proporción de usuarios y usuarias que pasan de una etapa a la siguiente?
+    - ¿En qué etapa pierdes más usuarios y usuarias?
+    - ¿Qué porcentaje de usuarios y usuarias hace todo el viaje desde su primer evento hasta el pago?
+
+
+- Estudiar los resultados del experimento.
+    - ¿Cuántos usuarios y usuarias hay en cada grupo?
+    - ¿Hay una diferencia estadísticamente significativa entre los grupos de control?
+    - ¿Los grupos se dividieron correctamente?
+    - ¿Qué conclusiones se pueden sacar del experimento?
+    - ¿El nivel de significación ha sido el correcto?
+
+__Conclusiones:__ Etapa en la cual se resume la totalidad del informe y se destacan los hallazgos mas importantes del análisis.
 
 ## Relevancia de los descubrimientos
 El análisis de datos de Instacart reveló patrones importantes en el comportamiento de compra de los clientes. Estos insights pueden ser utilizados para optimizar las estrategias de marketing, gestión de inventarios y mejorar la experiencia del cliente.
