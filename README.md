@@ -6,22 +6,20 @@ __Proyecto de análisis a la plataforma de delivery Instacart, análisis explora
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
 
 ## Descripción del Proyecto
-Se debe investigar el comportamiento de usuario para la aplicación de una empresa que comercializa productos alimentarios.
+Se investigó el comportamiento de usuario para la aplicación de una empresa que comercializa productos alimentarios.
 
-Primero, se estudiará el embudo de ventas para descubrir cómo los usuarios y las usuarias llegan a la etapa de compra. Para ello se formularán preguntas relacionadas al comportamiento de los clientes durante su paso por el embudo.
+Primero, se estudió el embudo de ventas para descubrir cómo los usuarios y las usuarias llegan a la etapa de compra. Para ello se formularon preguntas relacionadas al comportamiento de los clientes durante su paso por el embudo.
 
-Luego se analizarán los resultados de un test A/A/B, realizado debiido a que al equipo de diseño le gustaría cambiar las fuentes de toda la aplicación, pero la gerencia teme que los usuarios y las usuarias piensen que el nuevo diseño es intimidante. Por ello, deciden tomar una decisión basada en los resultados del test A/A/B.
+Luego se analizaron los resultados de un test A/A/B, realizado debiido a que al equipo de diseño propuso cambiar las fuentes de toda la aplicación, sin embargo, la gerencia temió que los usuarios y las usuarias pensaran que el nuevo diseño era intimidante. Por ello, decidieron tomar una decisión basada en los resultados del test A/A/B.
 
-Los usuarios se dividen en tres grupos: dos grupos de control obtienen las fuentes antiguas y un grupo de prueba obtiene las nuevas. Descubre qué conjunto de fuentes produce mejores resultados.
-
-Crear dos grupos A tiene ciertas ventajas. Podemos establecer el principio de que solo confiaremos en la exactitud de nuestras pruebas cuando los dos grupos de control sean similares. Si hay diferencias significativas entre los grupos A, esto puede ayudarnos a descubrir factores que pueden estar distorsionando los resultados. La comparación de grupos de control también nos dice cuánto tiempo y datos necesitaremos cuando realicemos más tests.
+Los usuarios se dividieron en tres grupos: dos grupos de control para las fuentes antiguas y un grupo de prueba para las nuevas. Se debió descubrir qué conjunto de fuentes produce mejores resultados. Crear dos grupos A tiene ciertas ventajas. Se puede establecer el principio de que solo se confiará en la exactitud de las pruebas cuando los dos grupos de control sean similares. Si hay diferencias significativas entre los grupos A, esto puede ayudar a descubrir factores que pueden estar distorsionando los resultados. La comparación de grupos de control también indica cuánto tiempo y datos se necesitarán cuando se realicen más tests.
 
 La información para el análisis general y para el análisis A/A/B está en el mismo dataset.
   
 ## Herramientas Utilizadas
 - __Lenguaje de Programación:__ Python.
 - __Entorno de Desarrollo:__ Jupyter Notebook.
-- __Bibliotecas:__ Pandas, Matplotlib.
+- __Bibliotecas:__ Pandas, Matplotlib, Plotly, Seaborn, Scipy, Numpy, Math.
 
 ## Proceso del Proyecto
 - __Descripción de los datos:__ Los datos fueron extraídos de [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por Instacart _(los datasets están en Drive porque superan el peso máximo permitido de GitHub)_, en esta fase, también, se les da una revisión superficial y se corrigen problemas de importación si es que llegasen a surgir.
