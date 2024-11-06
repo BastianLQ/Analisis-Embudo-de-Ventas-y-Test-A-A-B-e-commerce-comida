@@ -1,5 +1,5 @@
 # Analisis-Embudo-de-Ventas-y-Test-A-A-B-e-commerce-de-comida
-__Proyecto de análisis a la plataforma de delivery Instacart, análisis exploratiorio y visualización de datos__
+__Análisis de funnel de ventas y test A/A/B__
 
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/N3.jpg" alt="Collage de gráficos">
 
