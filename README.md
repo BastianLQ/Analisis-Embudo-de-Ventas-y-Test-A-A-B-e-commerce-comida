@@ -59,7 +59,7 @@ __Análisis:__ Etapa en la cual se responden las preguntas establecidas y se tra
 __Conclusiones:__ Etapa en la cual se resume la totalidad del informe y se destacan los hallazgos mas importantes del análisis.
 
 ## Relevancia de los descubrimientos
-El análisis del funnel de ventas y del test A/A/B reveló algunos patrones importantes de comportamiento, sin embargo, la calidad de los descubrimientos es proporcional a la calidad de la información y, en este proyecto, los descubrimientos más importantes tienen que ver con eso.
+El análisis del funnel de ventas y del test A/A/B reveló algunos patrones importantes de comportamiento, los hallazgos encontrados respaldan la elección hecha al final del informe, la cual es la mejor para la compañía ya que le significará un gran ahorro.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
