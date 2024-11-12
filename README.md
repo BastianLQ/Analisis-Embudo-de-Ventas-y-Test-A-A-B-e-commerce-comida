@@ -3,7 +3,7 @@ __Análisis de funnel de ventas y test A/A/B__
 
 <image src="https://github.com/BastianLQ/Analisis-Embudo-de-Ventas-y-Test-A-A-B-e-commerce-comida/blob/main/N11.jpg" alt="Collage de gráficos">
 
-_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
+_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P11.html)_
 
 ## Descripción del Proyecto
 Se investigó el comportamiento de usuario para la aplicación de una empresa que comercializa productos alimentarios.
@@ -61,5 +61,5 @@ __Conclusiones:__ Etapa en la cual se resume la totalidad del informe y se desta
 ## Relevancia de los descubrimientos
 El análisis del funnel de ventas y del test A/A/B reveló algunos patrones importantes de comportamiento, los hallazgos encontrados respaldan la elección hecha al final del informe, la cual es la mejor para la compañía ya que le significará un gran ahorro.
 
-## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)
+## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P11.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
